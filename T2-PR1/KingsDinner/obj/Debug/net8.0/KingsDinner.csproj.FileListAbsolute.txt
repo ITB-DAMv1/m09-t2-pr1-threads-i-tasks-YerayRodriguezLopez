@@ -1,0 +1,15 @@
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\KingsDinner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\KingsDinner.AssemblyInfoInputs.cache
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\KingsDinner.AssemblyInfo.cs
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\KingsDinner.csproj.CoreCompileInputs.cache
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\KingsDinner.sourcelink.json
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\bin\Debug\net8.0\KingsDinner.exe
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\bin\Debug\net8.0\KingsDinner.deps.json
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\bin\Debug\net8.0\KingsDinner.runtimeconfig.json
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\bin\Debug\net8.0\KingsDinner.dll
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\bin\Debug\net8.0\KingsDinner.pdb
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\KingsDinner.dll
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\refint\KingsDinner.dll
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\KingsDinner.pdb
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\KingsDinner.genruntimeconfig.cache
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\KingsDinner\obj\Debug\net8.0\ref\KingsDinner.dll
