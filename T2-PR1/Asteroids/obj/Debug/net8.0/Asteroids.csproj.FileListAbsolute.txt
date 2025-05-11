@@ -1,0 +1,15 @@
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\bin\Debug\net8.0\Asteroids.exe
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\bin\Debug\net8.0\Asteroids.deps.json
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\bin\Debug\net8.0\Asteroids.runtimeconfig.json
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\bin\Debug\net8.0\Asteroids.dll
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\bin\Debug\net8.0\Asteroids.pdb
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\Asteroids.AssemblyInfoInputs.cache
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\Asteroids.AssemblyInfo.cs
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\Asteroids.sourcelink.json
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\Asteroids.dll
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\refint\Asteroids.dll
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\Asteroids.pdb
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\Asteroids.genruntimeconfig.cache
+C:\Users\isard\Documents\Programacion\m09-t2-pr1-threads-i-tasks-YerayRodriguezLopez\T2-PR1\Asteroids\obj\Debug\net8.0\ref\Asteroids.dll
